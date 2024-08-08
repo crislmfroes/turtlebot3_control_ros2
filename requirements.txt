@@ -1,0 +1,3 @@
+networkx
+numpy
+transforms3d
